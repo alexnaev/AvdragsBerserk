@@ -1,2 +1,2 @@
-# MiniSiteTemplate
-Template for coding exercise mini site
+# AvdragsBerserk
+Cut down on your payments with "Payment Berserker"
