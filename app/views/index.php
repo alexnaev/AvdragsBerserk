@@ -6,9 +6,9 @@ require_once 'shared/header.php';
     <div class="container">
         <div class="row g-5 py-5 row-cols-1 row-cols-lg-2">
             <div class="col order-last order-lg-first">
-                <h1 class="display-5 fw-bold lh-1 mb-3">APP NAME: A Coding Project</h1>
+                <h1 class="display-5 fw-bold lh-1 mb-3">AvdragsBerserk: A Coding Project</h1>
                 <h4 class="lead">
-                    Live life one loop at a time. A javascript coding exercise using loops. Write a program that displays the numbers from 0 to 100. Display the even numbers in <strong>BOLD.</strong>
+                    Cut down on payments with AvdragsBerserk (Payment Berserker), a loan calculator written in Javascript using loops, functions and DOM manipulations.
                 </h4>
                 <ul class="fa-ul pt-2 checklist">
                     <li><span class="fa-li"><i class="fas fa-check-square"></i></span>CSS and Bootstrap Layout</li>
@@ -34,7 +34,7 @@ require_once 'shared/header.php';
                 </h5>
             </div>
             <div class="col">
-                <img src="" alt="App Logo" class="img-fluid center-block d-block mx-auto">
+                <img src="img/AvdragsBerserk-logo.png" alt="App Logo" class="img-fluid center-block d-block mx-auto">
             </div>
         </div>
     </div>

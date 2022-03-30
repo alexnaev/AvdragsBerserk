@@ -13,6 +13,15 @@ nav {
     background-color: var(--dark-color);
 }
 
+.calcForm {
+    background-color: lightgray;
+}
+
+.tableHeader {
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+
 footer {
     background-color: var(--dark-color);
 }
